@@ -75,6 +75,7 @@ Suitable for:
 ## Credits
 
 Developed by **ArkDevelopmentLab (ADL)**
+
 Dataset Creator: **JackMa (ArkDevelopmentLab / ArkAiLab)**
 
 If you use this dataset to train an AI model, citing **ALEN WALK** Dataset is appreciated.
